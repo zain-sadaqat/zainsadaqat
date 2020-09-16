@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on React, Firebase, Django, Python and Javascript
+- 🔭 I’m currently working on React, Firebase, Django, Python, Javascript and Google AMP
 - 🌱 I’m currently learning Redux, GraphQL, Typescript
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with a Mentor
