@@ -5,11 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on React, Firebase, Django, Python, Javascript and Google AMP
-- 🌱 I’m currently learning Redux, GraphQL, Typescript
-- 👯 I’m looking to collaborate on Open Source Projects
-- 🤔 I’m looking for help with a Mentor
-- ⚡ Fun fact: I'm a former All-round Cricketer. I took retirement from Cricket in 2016 :(
+- 🔭 Currently working on React, Firebase, Django, Python, Javascript and Google AMP
+- 🌱 Currently learning Redux, GraphQL, Typescript
+- 👯 Looking to collaborate on Open Source Projects
+- ⚡ Fun fact: Former All-round Cricketer. I took retirement from Cricket in 2016 :(
 
 ### Other places you can find me
 
@@ -20,4 +19,3 @@ Here are some ideas to get you started:
 
 ###
 
-Code --> Eat --> Sleep --> Repeat
