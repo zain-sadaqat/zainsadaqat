@@ -3,8 +3,6 @@
 
 [![HitCount](http://hits.dwyl.com/zainsadaqat/zainsadaqat.svg)](http://hits.dwyl.com/zainsadaqat/zainsadaqat)
 
-Here are some ideas to get you started:
-
 - 🔭 Currently working on React, Firebase, Django, Python, Javascript and Google AMP
 - 🌱 Currently learning Redux, GraphQL, Typescript
 - 👯 Looking to collaborate on Open Source Projects
