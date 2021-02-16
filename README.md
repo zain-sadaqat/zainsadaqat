@@ -8,12 +8,5 @@
 - 👯 Looking to collaborate on Open Source Projects
 - ⚡ Fun fact: Former All-round Cricketer. I took retirement from Cricket in 2016 :(
 
-### Other places you can find me
-
-[Linkedin](https://www.linkedin.com/in/zain-sadaqat/)
-[Twitter](https://twitter.com/zainsadaqat_)
-[Instagram](https://instagram.com/zane_sadaqat)
-[facebook](https://www.facebook.com/zainsadaqat1998)
-
 ###
 
